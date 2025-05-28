@@ -1,3 +1,4 @@
+![Imagem da Sede da DBC](https://www.dbccompany.com.br/app/uploads/2022/11/Saber-evoluir-e-a-grande-revolucao.jpg)
 
 # **Grupo 01 - 16° Vem Ser**
 
