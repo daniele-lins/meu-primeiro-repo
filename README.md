@@ -1,7 +1,4 @@
-# meu-primeiro-repo
 
-<h1><h1>
-Repositório para praticar os básicos do Git e GitHub
 # **Grupo 01 - 16° Vem Ser**
 
 Repositório para praticar os básicos do Git e GitHub.
