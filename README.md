@@ -65,10 +65,44 @@ Repositório para praticar os básicos do Git e GitHub.
 
 ## 🎯 **Hobbies**
 
-- 📚 **Leitura**: sempre em busca de bons livros, principalmente de terror, investigação e ficção científica.,
+- 📚 **Leitura**: sempre em busca de bons livros, principalmente de terror, investigação e ficção
 - 🎧 **Música**: explorar playlists, gosto da descoberta de artistas menos conhecidos, gosto de tocar violão e gaita também.,
 - 🎮 **Games**: Adoro jogos casuais com narrativas imersivas, mas também curto uma boa dose de competição!,
 - 🌱 **Aprendizados contínuos**: estou sempre estudando algo novo, principalmente novos idiomas.,
 - ☕ **Culinária**: Cozinhar me traz paz,
 
   Esses momentos me ajudam a manter o foco, a criatividade e a leveza no dia a dia profissional.
+
+<br>
+
+# 🚀 Projetos
+
+Aqui estão alguns projetos que desenvolvemos:
+
+## 🛒 MarketFlow
+
+Sistema de e-commerce completo com painel administrativo, controle de estoque e integração com API de pagamentos.
+
+- **Tecnologias:** React, Node.js, MongoDB
+- **Funcionalidades:** Autenticação, carrinho de compras, painel de vendas em tempo real
+- [Repositório](https://github.com/seuusuario/marketflow)
+
+---
+
+## 📅 TaskTrack
+
+Aplicativo web de organização de tarefas e metas diárias com foco em produtividade pessoal.
+
+- **Tecnologias:** Vue.js, Firebase
+- **Funcionalidades:** CRUD de tarefas, categorias personalizadas, login com Google
+- [Repositório](https://github.com/seuusuario/tasktrack)
+
+---
+
+## 🎨 Portfólio Dev
+
+Meu portfólio pessoal com projetos, contato e blog integrado, focado em performance e acessibilidade.
+
+- **Tecnologias:** Next.js, TailwindCSS, Vercel
+- **Funcionalidades:** Dark mode, SEO otimizado, blog com Markdown
+- [Repositório](https://github.com/seuusuario/portfolio-dev)
