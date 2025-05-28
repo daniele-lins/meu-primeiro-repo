@@ -49,9 +49,9 @@ Repositório para praticar os básicos do Git e GitHub.
 
 ## 🎯 Hobbies
 
-- ⚽**Futevôlei**: sempre em busca de bons livros, principalmente sobre desenvolvimento pessoal, tecnologia e ficção científica.
-- 🎧 **Música**: gosto de conhecer novas playlists, apesar de sempre acabar voltando às raízes do meu Spotify.
-- 🎮 **Games**: Gosta de jogos competitivos, nunca fui de fato bom em nenhum, sou sempre na média.
+- ⚽**Futevôlei**: Um dos meus esportes favoritos, me diverto bastante jogando com meus amigos!
+- 🎧 **Música**: Gosto de conhecer novas playlists, apesar de sempre acabar voltando às raízes do meu Spotify.
+- 🎮 **Games**: Em jogos competitivos, nunca fui de fato bom em nenhum, sou sempre na média.
 - 🏋️ **Academia**: Estudar e praticar exercícios físicos é uma coisa que me cativa.
 
 ## Vitor Conti
