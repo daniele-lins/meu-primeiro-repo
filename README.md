@@ -6,32 +6,28 @@ Repositório para praticar os básicos do Git e GitHub.
 
 ## Sobre Nossa Equipe
 
-Integrantes: Daniele Lins, Francinaldo Batista, Gabryell Leal e Vitor Conti
-
-### Daniele Lins:
-
----
+### Daniele Lins
 
 [![Github](https://img.shields.io/badge/Github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)<br>](https://github.com/daniele-lins)
-**Trilha:** dados.
-
-### Francinaldo Batista:
+**Trilha:** Dados.
 
 ---
+
+### Francinaldo Batista
 
 [![Github](https://img.shields.io/badge/Github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)<br>](https://github.com/Batissta)
-**Trilha:** QA.
-
-### Gabryell Leal:
+**Trilha:** Quality Assurance.
 
 ---
+
+### Gabryell Leal
 
 [![Github](https://img.shields.io/badge/Github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)<br>](https://github.com/lealgabryell)
-**Trilha:** QA.
-
-### Vitor Conti:
+**Trilha:** Quality Assurance.
 
 ---
 
+### Vitor Conti
+
 [![Github](https://img.shields.io/badge/Github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)<br>](https://github.com/VitorContiFideles)
-**Trilha:** QA.
+**Trilha:** Quality Assurance.
