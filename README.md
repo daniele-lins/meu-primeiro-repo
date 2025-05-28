@@ -23,8 +23,20 @@ Repositório para praticar os básicos do Git e GitHub.
 
 ### Francinaldo Batista
 
+<img width="100px" style="border-radius: 50%;" src="https://media.licdn.com/dms/image/v2/D4D03AQHKZ5pDiAsTaQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719816873238?e=1753920000&v=beta&t=Q42fjaKe3gaqhhN4MJacQMTXPqGIFFc1S8Tv-TG7rB0"/><br>
+
+#### 🎯 Hobbies
+
+- 📚 **Leitura**: Por mais que atualmente esteja enferrujado, gosto demais de ler livros, principalmente de filosofia. Aprendo muito com os livros.
+- 🎧 **Música**: A música sempre está presente na minha rotina. Gosto demais de ouvir algum som em diversos momentos do dia.
+- 🌱 **Aprender**: Sempre estou buscando aprender algo novo e aprimorar os meus conhecimentos no que já sei.
+- ☕ **Filmes e Séries**: Gosto muito de assistir filmes e séries no meu tempo livre.
+
+**Trilha:** Quality Assurance.<br>
+**Idade:** 20 anos.<br>
+**Natural de:** Campina Grande, PB
+
 [![Github](https://img.shields.io/badge/Github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)<br>](https://github.com/Batissta)
-**Trilha:** Quality Assurance.
 
 ---
 
